@@ -1,6 +1,6 @@
 ## About NODE.js API
 
-This project is created to teach you how to create a Restful CRUD API with Node.js, Express and MongoDB.
+This project is created to implement Restful CRUD API with Node.js, Express and MongoDB.
 
 If you want to learn how the project is developed. You can contact me via email: wisdomdzontoh@gmail.com
 
